@@ -1,3 +1,3 @@
 # signomix.com
 
-Questions, ideas for new functionalities and bug reports can be registered in the `Issues` tab.
+Please use the `Issues` tab to submit a question, new feature idea or bug report.
